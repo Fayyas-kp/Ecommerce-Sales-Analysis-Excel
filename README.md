@@ -33,9 +33,9 @@ E-Commerce
   
 ### Brief Description of the dataset
 Fields and its Description
-*Order Date*- Date on which customer has placed the order
-*Ship Date*- Shipment date of placed order
-*Ship Mode*- Mode of shipment- Same Day/First Class/Second Class/Standard
+*Order Date*- Date on which customer has placed the order.
+*Ship Date*- Shipment date of placed order.
+*Ship Mode*- Mode of shipment- Same Day/First Class/Second Class/Standard.
 *Customer Id*- Unique Customer Id
 *Segment*- Consumer/Home Office/Corporate
 *Country*- Country Name of customer
