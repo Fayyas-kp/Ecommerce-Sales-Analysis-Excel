@@ -62,4 +62,4 @@ Fields and its Description
 6. Implemented Map Chart for showcasing Sales by State.
    
 ### Final Interactive Dashboard
-![image alt](https://github.com/Fayyaskp07/Ecommerce-Sales-Analysis/blob/ba3fa4ab7def4dcf0cd2ac2e7e2132cec2ba3fbe/Ecommerce%20Sales%20Analysis.png)
+![image alt](https://github.com/Fayyaskp07/Ecommerce-Sales-Analysis/blob/2d5b1ae52470f9a32379e145c17ab00c78a6ed2d/Ecommerce%20Sales%20Analysis.png)
