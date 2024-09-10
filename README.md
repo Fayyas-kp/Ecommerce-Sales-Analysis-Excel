@@ -61,3 +61,4 @@ Fields and its Description
 5. Build a Pie Chart and Column Chart for Category-wise Profit and Sales respectively.
 6. Implemented Map Chart for showcasing Sales by State.
 Final Interactive Dashboard
+![image alt](https://github.com/Fayyaskp07/Ecommerce-Sales-Analysis/blob/ba3fa4ab7def4dcf0cd2ac2e7e2132cec2ba3fbe/Ecommerce%20Sales%20Analysis.png)
