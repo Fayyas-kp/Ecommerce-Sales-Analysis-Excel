@@ -35,22 +35,22 @@ E-Commerce
 #### Fields and its Description
 * *Order Date*- Date on which customer has placed the order
 * *Ship Date*- Shipment date of placed order
-*Ship Mode*- Mode of shipment- Same Day/First Class/Second Class/Standard
-*Customer Id*- Unique Customer Id
-*Segment*- Consumer/Home Office/Corporate
-*Country*- Country Name of customer
-*City*- Customer's City
-*State*- Customer's State
-*Postal Code*- Pincode of the customer
-*Region*- Main Region acc. to Country
-*Product ID*- Unique Product Id
-*Category*- Category of the product
-*Sub Category*- Sub-Category of the product
-*Product Name*- Name of the Product which is ordered
-*Sales*- Sales value by that product sold
-*Quantity*- No. of quantities ordered
-*Discount*- Offer/Discount % on that product
-*Profit*- Profit earned value from product's order
++ *Ship Mode*- Mode of shipment- Same Day/First Class/Second Class/Standard
++ *Customer Id*- Unique Customer Id
++ *Segment*- Consumer/Home Office/Corporate
++ *Country*- Country Name of customer
++ *City*- Customer's City
++ *State*- Customer's State
++ *Postal Code*- Pincode of the customer
++ *Region*- Main Region acc. to Country
++ *Product ID*- Unique Product Id
++ *Category*- Category of the product
++ *Sub Category*- Sub-Category of the product
++ *Product Name*- Name of the Product which is ordered
++ *Sales*- Sales value by that product sold
++ *Quantity*- No. of quantities ordered
++ *Discount*- Offer/Discount % on that product
++ *Profit*- Profit earned value from product's order
 
 ### Dashboard Outcomes (Tasks Accomplished)
 
