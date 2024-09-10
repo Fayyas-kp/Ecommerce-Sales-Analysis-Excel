@@ -1,12 +1,12 @@
 # Ecommerce-Sales-Analysis
 # E-Commerce Sales Analysis Dashboard (using Excel)
-#### Background
+### Background
 E-commerce is one of the fastest growing sector as now-a-days most of the customers prefer to purchase online. More and more business houses are implementing web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that the process of shopping on the web is becoming commonplace.
 
-#### Domain
+### Domain
 E-Commerce
 
-#### Business Requirements
+### Business Requirements
 
 + To find the Total Sales of all the orders over 12 months for each region and segment.
 + To analyse the product's Category-wise Profit and Sales and prepare a chart for the Sales and Profit Pattern for various months.
@@ -14,13 +14,13 @@ E-Commerce
 + To find the Best Selling Products among the different segments
 + To determine the YOY growth for multiple Key Metrics.
   
-#### Installation of the Project
+### Installation of the Project
 
 + Download the workbook named as 'Ecommerce Sales Analysis'
 + 'Data' Sheet represents the combined data of all the orders of all regions,customers,sales,countries.
 + 'Dashboard' Sheet represents the main dynamic dashboard of the application with 6interactive charts, 5 KPIs and filter for ship mode and region.
   
-#### Learnings
+### Learnings
 
 + Dashboard Development
 + Calculated Field
@@ -31,7 +31,7 @@ E-Commerce
 + Filters and Sorting
 + Pivot Table
   
-#### Brief Description of the dataset
+### Brief Description of the dataset
 Fields and its Description
 *Order Date*- Date on which customer has placed the order
 *Ship Date*- Shipment date of placed order
@@ -52,7 +52,7 @@ Fields and its Description
 *Discount*- Offer/Discount % on that product
 *Profit*- Profit earned value from product's order
 
-#### Dashboard Outcomes (Tasks Accomplished)
+### Dashboard Outcomes (Tasks Accomplished)
 
 1. Conducted in-depth data analysis on E-commerce Sales Data to gain some meaningful insights for each region and segment.
 2. Developed an interactive dashboard with 5 KPIs,multiple filters and 6 dynamic charts in Excel.
